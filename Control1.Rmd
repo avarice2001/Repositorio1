@@ -1,0 +1,15 @@
+---
+title: "Control1"
+author: "Aldo Mendoza"
+date: "23/12/2021"
+output: html_document
+---
+
+```{r}
+print("This file created within RStudio")
+```
+
+```{r}
+print("And now it lives on GitHub")
+```
+
